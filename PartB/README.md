@@ -1,4 +1,4 @@
-# ECE1512: Efficiency Optimization Using Dynamic Token Pruning
+# ECE1512_ProjectB_PartB: Efficiency Optimization Using Dynamic Token Pruning
 
 ## Overview
 This repository contains the implementation and results of our project for ECE1512, where we focus on improving transformer model efficiency using **Dynamic Token Pruning**. By dynamically reducing the number of tokens processed in each layer, this method significantly decreases FLOPs and execution time while maintaining the model's accuracy.
